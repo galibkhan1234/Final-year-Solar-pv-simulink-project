@@ -79,7 +79,7 @@ pv-mppt-battery-inverter/
 ## 🧑‍🎓 Author
 
 **[Mohammed Galib Khan]**  
-Final Year Electrical Engineering Student  
+[ Electrical Engineering Student ]  
 [Netaji Subhash Engineering College]
 
 ---
