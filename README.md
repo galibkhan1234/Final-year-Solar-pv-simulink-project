@@ -10,7 +10,7 @@ This MATLAB/Simulink project models a complete standalone solar power system, in
 
 ---
 
-## 🔧 Objective
+## Objective
 
 To design, simulate, and analyze a reliable off-grid solar power system that efficiently:
 - Extracts maximum power from the solar panel using MPPT (Perturb & Observe / Incremental Conductance)
@@ -19,10 +19,10 @@ To design, simulate, and analyze a reliable off-grid solar power system that eff
 
 ---
 
-## 📊 System Components
+## System Components
 
 | Block                     | Description |
-|--------------------------|-------------|
+
 | **PV Array**             | Simulates solar energy generation |
 | **MPPT Controller**      | Extracts maximum available power from PV |
 | **Battery Storage**      | Stores excess energy; supplies load during low generation |
@@ -33,7 +33,7 @@ To design, simulate, and analyze a reliable off-grid solar power system that eff
 
 ---
 
-## 📁 File Structure
+## File Structure
 
 ```
 pv-mppt-battery-inverter/
@@ -68,7 +68,7 @@ pv-mppt-battery-inverter/
 
 ---
 
-## 🔬 Future Improvements
+## Future Improvements
 
 - Add grid-connected mode
 - Integrate real weather data inputs
@@ -78,9 +78,9 @@ pv-mppt-battery-inverter/
 
 ## 🧑‍🎓 Author
 
-**[Your Full Name]**  
+**[Mohammed Galib Khan]**  
 Final Year Electrical Engineering Student  
-[Your College Name]
+[Netaji Subhash Engineering College]
 
 ---
 
